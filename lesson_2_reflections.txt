@@ -1,0 +1,3 @@
+What happens when you intialize a repository? Why do you need to doit?
+
+A hidden git config file called .git is created it. We need to do this so that we can later commit updates and this will sync all the meta data with git
