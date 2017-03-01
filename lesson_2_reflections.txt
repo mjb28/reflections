@@ -1,3 +1,7 @@
 What happens when you intialize a repository? Why do you need to doit?
 
 A hidden git config file called .git is created it. We need to do this so that we can later commit updates and this will sync all the meta data with git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where the files are stored before the commit rather than whats actually in the directory. It helps to do a last check before a commit is done
